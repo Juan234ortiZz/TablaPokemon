@@ -1,0 +1,60 @@
+body{
+    background-color: yellow;
+}
+
+header{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+div.imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    background-color: lightseagreen;
+    border-collapse: collapse;
+    text-align:center;
+    width: 90%;
+    margin: auto;
+}
+
+thead{
+    background-color: slateblue;
+}
+
+tr,td{
+    padding: 20px;
+}
+
+ul{
+    font-size: 18px;
+}
+
+li:nth-child(2n+1){
+    background-color: red;
+    color: white;
+}
+
+li:nth-child(2n){
+    background-color: slateblue;
+    color: white;
+}
+
+li{
+    border: 1px solid black;
+    list-style-type: none;
+    margin: 3px 50px 3px 0;
+    width: 32%;
+}
+
+footer{
+    background-color: blue;
+    color: gold;
+    font-size: 19px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

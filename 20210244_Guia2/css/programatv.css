@@ -1,0 +1,88 @@
+header{
+    background-color: blue;
+    color: cornsilk;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding: 2px;
+}
+
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 24px;
+}
+
+h2.titulo2{
+    text-align: left;
+}
+
+article.article1{
+    background-color: lightseagreen;
+
+}
+
+div.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p.info{
+    background-color:slateblue;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+thead{
+    background-color: red;
+    color: white;
+}
+
+table.tabla{
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style:dotted;
+    border-color: green;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+tr,td{
+    padding: 16px;
+}
+
+table tr:nth-child(2n){
+    background-color: blue;
+    color: gold;
+}
+
+table tr:nth-child(2n+2){
+    background-color: lightgreen;
+    color: midnightblue;
+}
+
+article.article2{
+    background-color: orangered;
+    font-family: cursive;
+    font-size: 19px;
+}
+
+footer{
+    background-color: gray;
+    color: honeydew;
+    padding: 30px;
+    text-align: center;
+}

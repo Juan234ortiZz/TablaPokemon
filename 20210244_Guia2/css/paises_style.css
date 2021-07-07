@@ -1,0 +1,78 @@
+#header1{
+    background-color: black;
+    color: white;
+}
+
+#nav1{
+    text-align: center;
+}
+
+h2.pais{
+    background-color: lightslategrey;
+    padding: 2%;
+    margin: 0;
+}
+
+p.inform{
+    background-color: lightgray;
+    margin: 0.5%;
+    padding-top: 2px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding: 1.5%;
+    text-align: center;
+}
+
+nav{
+    background-color: gray;
+    color: black;
+    padding: 3px;
+    font-size: 26px;
+}
+
+section.seccion_info{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+}
+
+article.escudo{
+    background-color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+
+.bandera{
+    background-color:teal;
+    padding: 2%;
+    padding-top: 1.5%;
+}
+
+.departamentos{
+    background-color: tomato;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+h2{
+    background-color: ;
+}
+
+p.texto{
+    background-color: slateblue;
+    padding: 1.5%;
+    margin: 3%;
+}
+
+footer{
+    background-color: gray;
+    font-size: 20px;
+    padding:2%;
+    text-align: center;
+}
